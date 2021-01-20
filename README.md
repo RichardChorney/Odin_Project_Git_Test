@@ -1,2 +1,2 @@
-This is project is for refreshing Git techniques. 
+This is a project for refreshing Git techniques. 
 
